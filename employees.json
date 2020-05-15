@@ -1,0 +1,22 @@
+[
+     {
+          "id": 1,
+          "name": "Michael",
+          "company": "Neely Media Services",
+          "job": "Web Developer" 
+
+     },
+     { 
+          "id": 2,
+          "name": "Mary",
+          "company": "Neely Media Services",
+          "job": "Designer"
+     },
+     {
+          "id": 3,
+          "name": "Gerald",
+          "company": "Neely Media Services",
+          "job": "App Developer"
+
+     }
+]
